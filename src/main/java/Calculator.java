@@ -1,7 +1,7 @@
 import java.util.UUID;
 
 class Calculator {
-	//just updating Jenkins, delete later
+
     Calculator(){
 
     }
